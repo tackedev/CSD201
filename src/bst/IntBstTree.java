@@ -8,7 +8,7 @@ import java.util.LinkedList;
  * @since  Feb 1, 2021 10:07:51 AM
  */
 public class IntBstTree {
-    private IntBstNode root;
+    protected IntBstNode root;
 
     public IntBstTree() {
         root = null;
